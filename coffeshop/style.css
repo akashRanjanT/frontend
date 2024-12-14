@@ -1,0 +1,41 @@
+#i1{
+	width: 100%;
+}
+#container1{
+	display: flex;
+	margin-left: 50px;
+}
+#img1{
+	margin-left: 145px;
+	margin-top: 15px;
+}
+#img2{
+	width: 100%;
+	margin-top: 5px;
+}
+h1{
+	text-align: center;
+	color: aqua;
+	font-family: cursive;
+}
+#row{
+	display: flex;
+}
+#t1{
+	width: 15%;
+}
+#t2{
+	width: 35%;
+}
+h3{
+	color: navy;
+	font-family: arial;
+}
+p{
+	text-align: justify;
+	font-family: calibri;
+	color: gray;
+}
+
+
+
